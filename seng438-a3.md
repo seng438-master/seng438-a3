@@ -126,7 +126,7 @@ The test classes selected are now included in the org.jfree.data package in the 
 - You can find both libraries in [./seng438-a3-artifacts.zip](./seng438-a3-artifacts.zip).
 - To run EclEmma code coverage on Eclipse, select coverage button> Coverage As> JUnit Test. Figure 5
 
-<img src="media/4.jpg" alt="media/4.jpg" width="360"/>
+<img src="media/5.jpg" alt="media/5.jpg" width="360"/>
 
 **Figure 5 - Run EclEmma code coverage tool**
 
