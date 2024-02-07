@@ -124,7 +124,7 @@ The test classes selected are now included in the org.jfree.data package in the 
 - You should import jmock 2.x library as you did in Assignment 2
 - If you want to use junit 4.x, you should import junit 4.x libraries as you did in Assignment 2
 - You can find both libraries in [./seng438-a3-artifacts.zip](./seng438-a3-artifacts.zip).
-- To run EclEmma code coverage on Eclipse, select coverage button> Coverage As> JUnit Test. Figure 5
+- To run EclEmma code coverage on Eclipse, select coverage button> Coverage As> JUnit Test. Refer Figure 5 to look at the output of coverage.
 
 <img src="media/5.jpg" alt="media/5.jpg" width="360"/>
 
